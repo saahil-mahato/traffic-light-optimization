@@ -43,6 +43,3 @@ To improve upon this research, future studies could focus on:
 ## Conclusion
 
 In conclusion, this research presents an **impactful** contribution to the field of urban traffic management through its innovative DGWO-LS algorithm. It effectively addresses a complex problem by incorporating both vehicle and pedestrian dynamics into traffic light scheduling. Given its promising results and potential applications, this study stands out as a significant advancement in optimizing urban traffic systems.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/19039562/3574c900-e75e-42fd-b59c-3c2c5cf559dd/s13369-024-09589-z.pdf
